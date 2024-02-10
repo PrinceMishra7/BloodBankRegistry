@@ -10,8 +10,8 @@ const Navbar = () => {
       
         <h1>
       <a href='#'>Track</a>
-      <a href='/BloodBankLogin'>Login As Hospital</a>
-      <a href='#'>Login As BloodBank</a>
+      <a href='#'>Login As Hospital</a>
+      <a href='/BloodBankLogin'>Login As BloodBank</a>
       </h1>
       <ul>
         <li> <img src={facebook}></img></li>
